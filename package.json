@@ -1,7 +1,14 @@
 {
-  "name": "criando_um_hook_de_carrinho_de_compras",
-  "version": "0.1.0",
   "private": true,
+  "name": "reactjs-custom-hook-challenge",
+  "description": "🔥 Código de resolução do desafio de hooks customizados para a trilha de React JS — Ignite",
+  "version": "1.0.0",
+  "repository": "https://github.com/MattZ6/reactjs-custom-hook-challenge",
+  "bugs": "https://github.com/MattZ6/reactjs-custom-hook-challenge/issues",
+  "author": {
+    "name": "Matheus Felipe Zanin",
+    "url": "https://github.com/mattz6"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
